@@ -1,0 +1,3 @@
+﻿  add.deleteArray.cpp
+D:\visualcode\add.deleteArray\add.deleteArray\add.deleteArray.cpp(133,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  add.deleteArray.vcxproj -> D:\visualcode\add.deleteArray\x64\Debug\add.deleteArray.exe
